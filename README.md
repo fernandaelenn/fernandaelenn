@@ -1,16 +1,16 @@
-## Hi there 👋
-
 <!--
-**fernandaelenn/fernandaelenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi! 👋 I'm Fernanda
 
-Here are some ideas to get you started:
+🎓 Master's student in Bioinformatics  
+🧬 Researcher in genomic surveillance, data analysis, and artificial intelligence  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔬 Research Interests
+- Bioinformatics
+- Data Science
+- Artificial Intelligence applied to Biology
+- Genomic Data Analysis
+
+## 📫 Contact
+- Email: fernandaelenbio13@gmail.com
+- LinkedIn: https://www.linkedin.com/in/fernanda-elen/
 -->
