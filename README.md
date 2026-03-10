@@ -19,6 +19,3 @@
 <img src="https://skillicons.dev/icons?i=python,r,anaconda,linux,git,vscode" />
 </p>
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/fernandaelenn/fernandaelenn/output/github-contribution-grid-snake.svg)
