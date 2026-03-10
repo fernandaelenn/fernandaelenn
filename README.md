@@ -21,4 +21,4 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/fernandaelenn/fernandaelenn/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/fernandaelenn/fernandaelenn/output/github-contribution-grid-snake.svg)
