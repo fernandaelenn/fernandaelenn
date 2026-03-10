@@ -21,4 +21,4 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/fernandaelenn/fernandaelenn/blob/output/github-contribution-grid-snake.svg)
