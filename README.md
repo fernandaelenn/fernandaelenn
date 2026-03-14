@@ -6,6 +6,9 @@
 - Bioinformatics
 - Data Science
 - Artificial Intelligence applied to Biology
+- Vector Ecology Modeling
+- Genomic Surveillance
+- Climate Data Analysis
 - Genomic Data Analysis
 
 ## 📫 Contact
